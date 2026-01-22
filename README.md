@@ -119,8 +119,7 @@ Está orientado a usuarios que desean **definir interfaces web de forma estructu
 ### Installation
 
 ```bash
-git clone https://github.com/DPaniagua5/
-analyzer-html-generator.git
+git clone https://github.com/DPaniagua5/analyzer-html-generator.git 
 cd fortran-python-analyzer
 ```
 
